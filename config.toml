@@ -61,6 +61,7 @@ theme = 'hugo-theme-shell'
   files = [
     ["LinkedIn", "https://www.linkedin.com/ofawx/"],
     ["GitHub", "https://www.github.com/ofawx/"],
+    ["PGP", "https://keys.openpgp.org/search?q=oscar%40ocf.sh"],
   ]
 
 [module]

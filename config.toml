@@ -59,7 +59,7 @@ theme = 'hugo-theme-shell'
   folderName = "links"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
-    ["LinkedIn", "https://www.linkedin.com/ofawx/"],
+    ["LinkedIn", "https://www.linkedin.com/in/ofawx/"],
     ["GitHub", "https://www.github.com/ofawx/"],
     ["PGP", "https://keys.openpgp.org/search?q=oscar%40ocf.sh"],
   ]
